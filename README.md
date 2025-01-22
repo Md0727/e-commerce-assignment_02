@@ -8,6 +8,8 @@ In the project directory, you can run:
 
 ### "before clone repo : https://github.com/Md0727/e-commerce-assignment_02.git".
 
+then run command npm install
+
 ### `npm start`
 
 Runs the app in the development mode.\
