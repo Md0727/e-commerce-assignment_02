@@ -6,6 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### "before clone repo : https://github.com/Md0727/e-commerce-assignment_02.git".
+
 ### `npm start`
 
 Runs the app in the development mode.\
